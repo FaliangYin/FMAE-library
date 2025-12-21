@@ -1,0 +1,11 @@
+r1: IF Bare Nuclei is medium, Normal Nucleoli is medium, THEN predicted as Benign with 0.972, Malignant with 0.023;
+r2: IF Bare Nuclei is medium, Normal Nucleoli is low, THEN predicted as Benign with 1.003, Malignant with 0.004;
+r3: IF Bare Nuclei is high, Normal Nucleoli is medium, THEN predicted as Benign with 0.839, Malignant with 0.170;
+r4: IF Bare Nuclei is medium, Uniformity of Cell Size is low, Normal Nucleoli is medium, THEN predicted as Benign with 0.986, Malignant with 0.010;
+r5: IF Bare Nuclei is medium, Uniformity of Cell Size is high, Normal Nucleoli is medium, THEN predicted as Benign with 0.866, Malignant with 0.130;
+r6: IF Bare Nuclei is medium, Clump Thickness is high, Normal Nucleoli is medium, THEN predicted as Benign with 0.879, Malignant with 0.112;
+r7: IF Bare Nuclei is medium, Normal Nucleoli is medium, Bland Chromatin is low, THEN predicted as Benign with 0.967, Malignant with 0.010;
+r8: IF Bare Nuclei is medium, Normal Nucleoli is high, THEN predicted as Benign with 0.959, Malignant with 0.064;
+r9: IF Bare Nuclei is medium, Normal Nucleoli is medium, Bland Chromatin is high, THEN predicted as Benign with 0.835, Malignant with 0.137;
+r10: IF Bare Nuclei is medium, Clump Thickness is low, Normal Nucleoli is medium, THEN predicted as Benign with 0.960, Malignant with 0.011;
+r11: IF Bare Nuclei is low, Normal Nucleoli is medium, THEN predicted as Benign with 1.028, Malignant with 0.008;

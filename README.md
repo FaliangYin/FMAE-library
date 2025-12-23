@@ -4,13 +4,17 @@ This project provides the **official Python library of FMAE (Fuzzy Model-Agnosti
 
 FMAE is a post-hoc explainable artificial intelligence (XAI) method designed to explain the decision-making behavior of **pre-trained black-box predictive models**.
 
-The algorithms implemented in this library are based on the following paper:
+The algorithms implemented in this library are based on the following papers:
 
 > **Hierarchical Fuzzy Model-Agnostic Explanation: Framework, Algorithms and Interface for XAI**  
 > Faliang Yin, Hak-Keung Lam, David Watson  
 > *IEEE Transactions on Fuzzy Systems*  
 > https://ieeexplore.ieee.org/document/10731553
 
+> **An Explainable Control Framework (XCF): A Novel Fuzzy Model-Agnostic Explanation (FMAE) Approach with Case Study**  
+> Faliang Yin, David Watson, Hak-Keung Lam  
+> *2025 International Conference on Advanced Robotics and Mechatronics (ICARM)*  
+> https://ieeexplore.ieee.org/document/11293635
 ---
 ## Installation
 
